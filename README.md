@@ -11,6 +11,10 @@ Desenvolvedor Full Stack com vasta experiência em tecnologias de front-end, bac
 
 Além disso, tenho experiência com metodologias ágeis e sou certificado em **DDD (Domain-Driven Design)** para Node.js, o que aprimora minha abordagem ao desenvolvimento orientado ao domínio.
 
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelocarvalhodemoura&show_icons=true&theme=dracula)
+
 ### 🌐 Conecte-se Comigo!
 
 - [LinkedIn](https://www.linkedin.com/in/marcelo-carvalho-de-moura)
