@@ -17,8 +17,10 @@ Além disso, tenho experiência com metodologias ágeis e sou certificado em **D
 
 ### 🌐 Conecte-se Comigo!
 
-- [LinkedIn](https://www.linkedin.com/in/marcelo-carvalho-de-moura)
-- [Email](marcelo@devwev.com.br)
+<div align="left">
+  <a href="https://linkedin.com/in/carvalhomar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:marcelo@devwev.com.br"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
 Aqui você encontra alguns dos meus repositórios, onde compartilho projetos de desenvolvimento, automação e infraestrutura. Estou sempre aberto para colaborações e discussões sobre novas tecnologias!
 
