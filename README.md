@@ -13,7 +13,10 @@ Além disso, tenho experiência com metodologias ágeis e sou certificado em **D
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelocarvalhodemoura&show_icons=true&theme=dracula)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocarvalhodemoura&layout=compact&langs_count=9&theme=dark)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=marcelocarvalhodemoura&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 48%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocarvalhodemoura&layout=compact&langs_count=10&theme=dark" alt="Top Langs" style="width: 48%;" />
+</div>
 
 
 
