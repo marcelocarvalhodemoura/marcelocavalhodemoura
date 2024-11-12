@@ -20,7 +20,7 @@
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?marcelo@devwev.com.br&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?marcelocarvalhodemoura&show_icons=true&theme=dracula)
 
 ## Contato
 
